@@ -18,3 +18,12 @@ I spent 8 years of my life growing up in Hyderabad.My parents still live there.M
   * Indian Currency
 * Video Recording Camera
 [Navigate to AboutMe file](AboutMe.md)
+---
+### Best Food in Hyderabad
+Must try food in Hyderabad
+| Food/Drink  | Location  | Price |
+|   :---:     |   :---:   | :---: |
+| Biryani     | Paradise  | 400INR|
+| Falooda     |LassiCorner| 100INR|
+| MuttonPaya  | Chichas   | 300INR|
+|DoubleKaMeeta| Vasireddy | 100INR|
