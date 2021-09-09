@@ -29,5 +29,5 @@ Must try food in Hyderabad
 |DoubleKaMeeta| Vasireddy | 100INR|
 ---
 ### Fav Quotes
-> Some people are worth melting for. — *Olaf, Frozen*
+> Some people are worth melting for. — *Olaf, Frozen* <br>
 > All our dreams can come true, if we have the courage to pursue them. — *Walt Disney*
