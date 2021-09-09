@@ -27,3 +27,7 @@ Must try food in Hyderabad
 | Falooda     |LassiCorner| 100INR|
 | MuttonPaya  | Chichas   | 300INR|
 |DoubleKaMeeta| Vasireddy | 100INR|
+---
+### Fav Quotes
+> Some people are worth melting for. — *Olaf, Frozen*
+> All our dreams can come true, if we have the courage to pursue them. — *Walt Disney*
