@@ -10,3 +10,10 @@ I spent 8 years of my life growing up in Hyderabad.My parents still live there.M
    2. Take a flight to Chicago(ORD).
 2. Day 02
    1. From Chicago, take a direct flight to Hyderabad.
+* Sunscreen Lotion
+* Medicines if you are allaergic to spices
+* Documents needed while travelling out of country
+  * Visa Copy
+  * Passport
+  * Indian Currency
+* Video Recording Camera
